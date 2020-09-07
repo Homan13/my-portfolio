@@ -13,8 +13,6 @@ endDate: "2019-10-04"
 
 * Served as a temporary scrum master while our teams scrum master was on personal leave. While still maintaining my development work, I was able to keep the team meeting program management goals for the sprints I managed.</p>
 
-* Mauris hendrerit, sem sit amet dapibus ultrices, lacus quam malesuada lorem, interdum lacinia tortor augue maximus mauris.</p>
+* Cohort lead for Northrop AWS professional and specialty level certification cohorts, working to increase the number of AWS certified engineers within the company. Lead cohorts, help cohort members prepare for upcoming certifications, and log succesful certification attempts to track current certifications.
 
-* Aliquam ultrices, lectus ac semper dictum, nisi eros sollicitudin purus, nec pharetra massa diam eu libero. Integer at metus vitae urna placerat vehicula. Donec ut sagittis risus, sed mattis mi.</p>
-
-* Donec suscipit, ex vitae finibus faucibus, nisl est eleifend justo, quis porta ante massa sed arcu. Morbi dapibus, massa sit amet posuere porta, sapien tellus malesuada ipsum, et vehicula nunc diam vel lacus. Donec fringilla viverra massa vitae aliquet.</p>
+* Acted as a mentor to several junior engineers and summer interns.
