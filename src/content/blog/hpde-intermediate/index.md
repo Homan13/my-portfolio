@@ -1,5 +1,5 @@
 ---
-title: "Track Day 101 - Advancing to Intermediate or: How I Learned to Drive Alone"
+title: "Track Day 110 - Advancing to Intermediate or: How I Learned to Drive Alone"
 tags: ["HPDE", "SCCA", "Novice", "Intermediate", "Solo"]
 description: "My thoughts on what you need to advance in HPDE"
 author: "Kevin Homan"
@@ -26,8 +26,12 @@ Going along with vision outside the car is your awareness of flag stations. When
 
 Related to that topic, and before I start wrapping things up, know…your…[flags](https://www.wdcr-scca.org/flagging-communication). We all think we know the flags, and there’s a good chance we probably do, but different sanctioning bodies do use different flags. I had been a HUGE F1 fan for years before I got on track with SCCA. To me, a red flag meant a suspension of the session, cars return to the pits or the starting grid. In SCCA, this flag is similar in that a suspension of the session is happening, HOWEVER you are to find a spot on the side of the track where you can safely pull over, and have clear field of vision to a flag station. Learning the flags is not, or should not be a difficult task, just be sure to know the flags and their meaning for the sanctioning body you’re driving with. Again, misinterpreting a flag has the potential to make an existing incident, into something potentially larger.
 
+Do everything in your power to attend BOTH days of a track weekend. In the case of my club, the second day is only an extra $100.00, and I realize saying “is only an extra $100.00” sounds very first World problem here, but the value to on-track gains benefit is just massive. I cannot accurately describe in words just HOW important that second day of a track weekend is.
+
 Finally, be your own advocate. Your instructors will give you feedback, and they will let you know how you’re doing and if you’re ready to start thinking about these things. But, if there’s something you want to work on, just say so to your instructor. If you think you’re ready to start managing traffic and flag-stations, by all means tell your instructor and work out a plan before you get in the car for a session. Your instructors are there to help you improve and learn, but they can’t do so if you’re not communicating with them, so don’t be afraid to speak up and advocate for yourself if you feel you’re in a spot to do so.
 
 So that’s my story, and I think I’m sticking to it. If you’re in a position where you’re getting ready to advance from novice to intermediate, I sincerely hope this helps you out. I largely enjoy doing this because it helps me gather my thoughts from previous event(s), but I hope it can help someone else out as well. Feel free to reach out, provide your feedback and thoughts, especially if you think I missed anything, and most importantly, drive safely!
 
 Finally, I just want to take a minute for some thank yous. To my friends Jim, Jeff and Alan, thank you for putting up with my incessant questions throughout this process. The engineer in me can get a little annoying at times I’m sure, but I appreciate your guidance, advice and patience. To my instructors Barry, Alan, Tim and Wendy, thank you for helping me meet and exceed all my goals and expectations. Your guidance, advise and as above, answering of any and all of my questions have been greatly appreciated. To the volunteers who run our events, keep us safe and send enjoyable emails, thank you for making this all possible. And of course, to my wife who puts up with this hobby of mine, and graciously allows me to leave home for a full weekend to drive fast.
+
+For the TLDR crowd...notice how I left this off for the end. Have a realistic set of expectations, set goals, take notes, be safe, listen to your instructor, be predictable. Now go get that HPDE trophy!
