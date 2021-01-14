@@ -1,5 +1,5 @@
 ---
-title: "Who Can Best Agree? Masons Responce to the 2021 Capitol Insurrection"
+title: "Who Can Best Agree? Masons Response to the 2021 Capitol Insurrection"
 tags: ["Masonic", "Freemasonry", "2021 US Insurrection"]
 description: "What you need to do to keep yourself safe on-track"
 author: "Kevin Homan"
