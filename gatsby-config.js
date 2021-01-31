@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Morals and Dogma: Annotated Edition`,
-        author: `Arturo de Hoyos`,
-        link: `https://www.goodreads.com/book/show/13122163-albert-pike-s-morals-and-dogma`,
+        title: `Leviathan Wakes`,
+        author: `James S.A. Corey`,
+        link: `https://www.goodreads.com/book/show/8855321-leviathan-wakes`,
       },
       {
-        title: `The Unicorn Project`,
-        author: `Gene Kim`,
-        link: `https://www.goodreads.com/book/show/44333183-the-unicorn-project`,
+        title: `Elementary Treatise of Occult Science`,
+        author: `John Michael Greer, Mark Anthony Mikituk, Papus`,
+        link: `https://www.goodreads.com/book/show/38935429-elementary-treatise-of-occult-science`,
       },
       {
-        title: `Approaching the Middle Chamber: The Seven Liberal Arts in Freemasonry & the Western Esoteric Tradition`,
-        author: `Jaime Paul Lamb`,
-        link: `https://www.goodreads.com/book/show/54392849-approaching-the-middle-chamber`,
+        title: `You Suck at Racing: A Crash Course for the Novice Driver`,
+        author: `Ian Korf`,
+        link: `https://www.goodreads.com/book/show/29867821-you-suck-at-racing`,
       },
     ],
     showsList: [
@@ -47,9 +47,9 @@ module.exports = {
         link: `https://www.imdb.com/title/tt1312171/`,
       },
       {
-        title: `Watchmen`,
-        author: `Damon Lindelof`,
-        link: `https://www.imdb.com/title/tt7049682/`,
+        title: `The Expanse`,
+        author: `Daniel Abraham, Mark Fergus, Ty Franck and Hawk Ostby`,
+        link: `https://www.imdb.com/title/tt3230854/`,
       },
       {
         title: `Star Wars: The Mandalorian`,

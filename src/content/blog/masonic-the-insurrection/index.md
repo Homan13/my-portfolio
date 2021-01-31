@@ -1,12 +1,12 @@
 ---
-title: "Who Can Best Agree? Masons Response to the 2021 Capitol Insurrection"
+title: "Who Can Best Agree? One Masons Response to the 2021 Capitol Insurrection"
 tags: ["Masonic", "Freemasonry", "2021 US Insurrection"]
 description: "What you need to do to keep yourself safe on-track"
 author: "Kevin Homan"
 date: "2021-01-14"
 ---
 
-As Senator Chuck Schumer correctly identified in his speech to the Senate shortly after resuming duties to certify the 2020 Presidential election; January 6th, 2020 has now been added to January 7th, 1941 as "a date which will live in infamy". Incited by the likes of Donald Trump, Josh Hawley, Mo Brooks, and Ted Cruz, Americans stormed the US Capitol building in an outright act of sedition and insurrection that led to five people's deaths that day. What happened that day is undoubtedly one of the darkest days America has seen. Unfortunately, instead of coming together as a country as we did on September 11th we've only grown further apart in the days since. What's more troubling is the divisions in real life are extending across to Freemasonry itself.
+As Senator Chuck Schumer correctly identified in his speech to the Senate shortly after resuming duties to certify the 2020 Presidential election; January 6th, 2020 has now been added to December 7th, 1941 as "a date which will live in infamy". Incited by the likes of Donald Trump, Josh Hawley, Mo Brooks, and Ted Cruz, Americans stormed the US Capitol building in an outright act of sedition and insurrection that led to five people's deaths that day. What happened that day is undoubtedly one of the darkest days America has seen. Unfortunately, instead of coming together as a country as we did on September 11th we've only grown further apart in the days since. What's more troubling is the divisions in real life are extending across to Freemasonry itself.
 
 In fact, in the Masonic world, a quite "scandalous" thing happened, the Grand Master of North Carolina and a few days later the Grand Master of Wisconsin denounced the insurrection and those who participated, "and there was much rejoicing." Oh, wait…no, there was much division. Wait, what?
 
