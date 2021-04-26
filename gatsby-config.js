@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Leviathan Wakes`,
-        author: `James S.A. Corey`,
-        link: `https://www.goodreads.com/book/show/8855321-leviathan-wakes`,
+        title: `The Man of Desire (The Way of the Heart)`,
+        author: `Louis-Claude de Saint-Martin, Felix Mupidia Lonji (Translator)`,
+        link: `https://www.goodreads.com/book/show/36580349-the-man-of-desire`,
       },
       {
-        title: `Elementary Treatise of Occult Science`,
-        author: `John Michael Greer, Mark Anthony Mikituk, Papus`,
-        link: `https://www.goodreads.com/book/show/38935429-elementary-treatise-of-occult-science`,
+        title: `The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win`,
+        author: `Gene Kim, Kevin Behr, George Spafford`,
+        link: `https://www.goodreads.com/book/show/17255186-the-phoenix-projects`,
       },
       {
-        title: `You Suck at Racing: A Crash Course for the Novice Driver`,
-        author: `Ian Korf`,
-        link: `https://www.goodreads.com/book/show/29867821-you-suck-at-racing`,
+        title: `Kabbalah for Dummies`,
+        author: `Arthur Kirzweil`,
+        link: `https://www.goodreads.com/book/show/302050.Kabbalah_For_Dummies`,
       },
     ],
     showsList: [
