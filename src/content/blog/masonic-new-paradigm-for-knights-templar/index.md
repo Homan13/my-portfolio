@@ -6,7 +6,7 @@ author: "Kevin Homan"
 date: "2021-04-26"
 ---
 
-A lot of Templar Knights may not like or appreciate my next statement. However, with the continued importance placed on it by the Grand Encampment and various Grand Commanderies, and given the current state of Templary I feel its an important topic to discuss;
+A lot of Templar Knights may not like or appreciate my next statement. However, with the continued importance placed on it by the Grand Encampment and various Grand Commanderies, and given the current state of Templary I feel it's an important topic to discuss;
 
 The Masonic Knights Templar needs to completely get rid of drill teams.
 
