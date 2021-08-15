@@ -51,11 +51,11 @@ export default ({ data }) => {
           <p className="i-5 mt-4 pt-2">
             Hello there! My name is <b>{`${author}`}</b>. I am a&nbsp;
             <a
-              href="https://www.dictionary.com/e/fictional-characters/padawan/"
+              href="https://starwars.fandom.com/wiki/Jedi_Knight/Legends"
               target="_blank"
               rel="noopener noreferrer"
             >
-              padawan
+              Jedi Knight
             </a>
             &nbsp;
             <b>{occupation}</b> perfecting the art of Infrastructure as Code 

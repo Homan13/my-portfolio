@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `The Man of Desire (The Way of the Heart)`,
-        author: `Louis-Claude de Saint-Martin, Felix Mupidia Lonji (Translator)`,
-        link: `https://www.goodreads.com/book/show/36580349-the-man-of-desire`,
+        title: `Project Hail Mary`,
+        author: `Andy Weir`,
+        link: `https://www.goodreads.com/book/show/54493401-project-hail-mary`,
       },
       {
-        title: `The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win`,
-        author: `Gene Kim, Kevin Behr, George Spafford`,
-        link: `https://www.goodreads.com/book/show/17255186-the-phoenix-projects`,
+        title: `The Meaning of Masonry`,
+        author: `W.L. Wilmshurst`,
+        link: `https://www.goodreads.com/book/show/823655.The_Meaning_of_Masonry`,
       },
       {
-        title: `Kabbalah for Dummies`,
-        author: `Arthur Kirzweil`,
-        link: `https://www.goodreads.com/book/show/302050.Kabbalah_For_Dummies`,
+        title: `Treatise on the Reintegration of Beings`,
+        author: `Martines de Pasqually`,
+        link: `https://www.goodreads.com/book/show/36592037-treatise-on-the-reintegration-of-beings`,
       },
     ],
     showsList: [
