@@ -2,7 +2,7 @@
   "name": "john-doe-starter-site",
   "private": true,
   "description": "Kevin Homan's professional portfolio built on the bare-bones starter for Gatsby",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
