@@ -34,3 +34,5 @@ So where are we to go from here? I honestly don't know. A perception I share wit
 
 ### Last Minute Editing Update
 As I was editing this to go to publication, this [story](https://www.fromdarknesstolightblog.com/post/nero-is-getting-his-fiddle-ready-gekt) came across my desk. Stay tuned for either updates here, or for a new article depending on how this all shakes out.
+
+As usual, thank you for reading. These thoughts are my own, and in no way represent the official thoughts and statements of my employer, my automotive and Masonic affiliations.

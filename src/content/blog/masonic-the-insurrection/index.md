@@ -47,3 +47,5 @@ We say a lot of things about Freemasonry, both within our internal teachings, an
 “We take good men and we make them better.” Yes, we do. What we don’t do is take hateful or ignorant men and make them good.
 
 Just a month ago, we as Masons discussed an article highlighting how Freemasonry is needed now more than ever. Masons all over social media agreed that we are, as we believe in living in peace and unity. What last Wednesday's events exposed is that damn close to 50% of Freemasons are okay with insurrection, racists, and bigots as long as it's their side doing it. Like our Country, Freemasonry is at a reckoning point, and only two Grand Master care enough about our fraternity to rise up and face the challenge.
+
+As usual, thank you for reading. These thoughts are my own, and in no way represent the official thoughts and statements of my employer, my automotive and Masonic membership affiliations.

@@ -42,3 +42,5 @@ These men will only knock on our doors for so long. Once they realize the organi
 I get that this is the road we're heading down, I may not agree with it, but this is the direction where going. The company I work for has a pretty profound principle for situations such as this. "Disagree and commit". I see the direction we're headed, and I'll do my part to keep this organization going, what about you?
 
 "I profess the Christian faith."
+
+As usual, thank you for reading. These thoughts are my own, and in no way represent the official thoughts and statements of my employer, my automotive and Masonic membership affiliations.
