@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Cerneauism and American Freemasonry`,
-        author: `Arturo de Hoyos and S. Brent Morris`,
-        link: `https://www.scottishritestore.org/cerneauism-and-american-freemasonry.html`,
+        title: `The Lost Keys of Freemasonry: History of the Infamous Secret Society`,
+        author: `Manly P. Hall`,
+        link: `https://www.goodreads.com/book/show/46204581-the-lost-keys-of-freemasonry`,
       },
       {
-        title: `Of Errors & Truth (Man Restored to the Universal Principle of Knowledge)`,
-        author: `Louis-Claude de Saint-Martin - Translated by Piers A. Vaughan`,
-        link: `https://www.goodreads.com/book/show/35926931-of-errors-truth`,
+        title: `Hidden Wisdom: A Guide to the Western Inner Traditions`,
+        author: `Richard Smoley, Jay Kinney`,
+        link: `https://www.goodreads.com/book/show/111720.Hidden_Wisdom`,
       },
       {
-        title: `Cibola Burn (The Expanse #4)`,
+        title: `Nemesis Games (The Expanse #5)`,
         author: `James S.A. Corey`,
-        link: `https://www.goodreads.com/book/show/18656030-cibola-burn`,
+        link: `https://www.goodreads.com/book/show/22886612-nemesis-games`, 
       },
     ],
     showsList: [
