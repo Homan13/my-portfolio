@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `The Lost Keys of Freemasonry: History of the Infamous Secret Society`,
-        author: `Manly P. Hall`,
-        link: `https://www.goodreads.com/book/show/46204581-the-lost-keys-of-freemasonry`,
+        title: `Contemplative Masonry: Basic Applications of Mindfulness, Meditation, and Imagery for the Craft`,
+        author: `C.R. Dunning Jr.`,
+        link: `https://www.goodreads.com/book/show/34615630-contemplative-masonry`,
       },
       {
-        title: `Hidden Wisdom: A Guide to the Western Inner Traditions`,
-        author: `Richard Smoley, Jay Kinney`,
-        link: `https://www.goodreads.com/book/show/111720.Hidden_Wisdom`,
+        title: `The Kybalion: A Study of the Hermetic Philosophy of Ancient Egypt and Greece`,
+        author: `Three Initiates, William Walker Atkinson, Tre Iniziati`,
+        link: `https://www.goodreads.com/book/show/1363427.Kybalion`,
       },
       {
-        title: `Nemesis Games (The Expanse #5)`,
+        title: `Baylon's Ashes (The Expanse #6)`,
         author: `James S.A. Corey`,
-        link: `https://www.goodreads.com/book/show/22886612-nemesis-games`, 
+        link: `https://www.goodreads.com/book/show/25877663-babylon-s-ashes`, 
       },
     ],
     showsList: [
