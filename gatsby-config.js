@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Contemplative Masonry: Basic Applications of Mindfulness, Meditation, and Imagery for the Craft`,
-        author: `C.R. Dunning Jr.`,
-        link: `https://www.goodreads.com/book/show/34615630-contemplative-masonry`,
+        title: `Bible Study for Freemasons: Exploring the Scriptural Bases of Masonic Work`,
+        author: `Robert Elsner`,
+        link: `https://www.goodreads.com/book/show/44084866-bible-study-for-freemasons`,
       },
       {
-        title: `The Kybalion: A Study of the Hermetic Philosophy of Ancient Egypt and Greece`,
-        author: `Three Initiates, William Walker Atkinson, Tre Iniziati`,
-        link: `https://www.goodreads.com/book/show/1363427.Kybalion`,
+        title: `Hidden Wisdom: The Secrets of the Western Esoteric Tradition`,
+        author: `Tim Wallace-Murphy`,
+        link: `https://www.goodreads.com/book/show/7668078-hidden-wisdom`,
       },
       {
-        title: `Baylon's Ashes (The Expanse #6)`,
-        author: `James S.A. Corey`,
-        link: `https://www.goodreads.com/book/show/25877663-babylon-s-ashes`, 
+        title: `Set the Night on Fire: Living, Dying, and Playing Guitar With the Doors`,
+        author: `Robby Krieger, Jeff Alulis`,
+        link: `https://www.goodreads.com/book/show/58557904-set-the-night-on-fire`, 
       },
     ],
     showsList: [
