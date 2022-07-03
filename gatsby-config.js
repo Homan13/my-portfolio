@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Bible Study for Freemasons: Exploring the Scriptural Bases of Masonic Work`,
-        author: `Robert Elsner`,
-        link: `https://www.goodreads.com/book/show/44084866-bible-study-for-freemasons`,
+        title: `Esoteric Handbook for the Entered Apprentice Mason`,
+        author: `Robert V. Lund`,
+        link: `https://www.goodreads.com/book/show/41723040-esoteric-handbook-for-the-entered-apprentice-mason`,
       },
       {
-        title: `Hidden Wisdom: The Secrets of the Western Esoteric Tradition`,
-        author: `Tim Wallace-Murphy`,
-        link: `https://www.goodreads.com/book/show/7668078-hidden-wisdom`,
+        title: `The Chicken Qabalah of Rabbi Lamed Ben Clifford: Dilettante's Guide to What You Do and Do Not Need to Know to Become a Qabalist`,
+        author: `Lon Milo DuQuette`,
+        link: `https://www.goodreads.com/book/show/420549.The_Chicken_Qabalah_of_Rabbi_Lamed_Ben_Clifford`,
       },
       {
-        title: `Set the Night on Fire: Living, Dying, and Playing Guitar With the Doors`,
-        author: `Robby Krieger, Jeff Alulis`,
-        link: `https://www.goodreads.com/book/show/58557904-set-the-night-on-fire`, 
+        title: `Tiamat's Wrath (The Expanse)`,
+        author: `James S.A. Corey`,
+        link: `https://www.goodreads.com/book/show/28335698-tiamat-s-wrath`, 
       },
     ],
     showsList: [

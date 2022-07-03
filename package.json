@@ -2,7 +2,7 @@
   "name": "kevin-homan-portfolio",
   "private": true,
   "description": "Kevin Homan's professional portfolio built on the bare-bones starter for Gatsby",
-  "version": "2.16.0",
+  "version": "2.17.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
