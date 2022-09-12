@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Esoteric Handbook for the Entered Apprentice Mason`,
+        title: `Esoteric Handbook for the Master Mason`,
         author: `Robert V. Lund`,
-        link: `https://www.goodreads.com/book/show/41723040-esoteric-handbook-for-the-entered-apprentice-mason`,
+        link: `https://www.goodreads.com/book/show/55983170-esoteric-handbook-for-the-master-mason`,
       },
       {
-        title: `The Chicken Qabalah of Rabbi Lamed Ben Clifford: Dilettante's Guide to What You Do and Do Not Need to Know to Become a Qabalist`,
-        author: `Lon Milo DuQuette`,
-        link: `https://www.goodreads.com/book/show/420549.The_Chicken_Qabalah_of_Rabbi_Lamed_Ben_Clifford`,
+        title: `The Secret School of Wisdom - The Authentic Rituals and Doctrines of the Illuminati`,
+        author: `Jossssef Wages, Renhard Marker and Jeva Singh-Anand`,
+        link: `https://www.goodreads.com/book/show/25002106-the-secret-school-of-wisdom---the-authentic-rituals-and-doctrines-of-the`,
       },
       {
-        title: `Tiamat's Wrath (The Expanse)`,
-        author: `James S.A. Corey`,
-        link: `https://www.goodreads.com/book/show/28335698-tiamat-s-wrath`, 
+        title: `Foundation`,
+        author: `Isaac Asimov`,
+        link: `https://www.goodreads.com/book/show/29579.Foundation`, 
       },
     ],
     showsList: [
@@ -47,14 +47,14 @@ module.exports = {
         link: `https://www.imdb.com/title/tt4236770/`,
       },
       {
-        title: `The Expanse`,
-        author: `Daniel Abraham, Mark Fergus, Ty Franck and Hawk Ostby`,
-        link: `https://www.imdb.com/title/tt3230854/`,
+        title: `House of the Dragon`,
+        author: `Ryan J. Condal and George R.R. Martin`,
+        link: `https://www.imdb.com/title/tt11198330/`,
       },
       {
-        title: `Foundation`,
-        author: `Josh Friedman, David S. Goyer`,
-        link: `https://www.imdb.com/title/tt0804484/`,
+        title: `The Lord of the Rings:: The Rings of Power`,
+        author: `Patrick McKay and John D. Payne`,
+        link: `https://www.imdb.com/title/tt7631058/`,
       },
     ],
   },
