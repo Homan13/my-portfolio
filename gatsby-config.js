@@ -25,19 +25,19 @@ module.exports = {
     ],
     readingList: [
       {
-        title: `Esoteric Handbook for the Master Mason`,
-        author: `Robert V. Lund`,
-        link: `https://www.goodreads.com/book/show/55983170-esoteric-handbook-for-the-master-mason`,
+        title: `Esoterika - The Symbolism Of The Blue Degrees of Freemasonry`,
+        author: `Albert Pike, Arturo de Hoyes (Editor)`,
+        link: `https://www.goodreads.com/book/show/8088311-esoterika---the-symbolism-of-the-blue-degrees-of-freemasonry`,
       },
       {
-        title: `The Secret School of Wisdom - The Authentic Rituals and Doctrines of the Illuminati`,
-        author: `Jossssef Wages, Renhard Marker and Jeva Singh-Anand`,
-        link: `https://www.goodreads.com/book/show/25002106-the-secret-school-of-wisdom---the-authentic-rituals-and-doctrines-of-the`,
+        title: `Man, His True Nature and Ministry`,
+        author: `Louis Claude de Saint-Martin`,
+        link: `https://www.goodreads.com/book/show/1890094.Man`,
       },
       {
-        title: `Foundation`,
+        title: `Second Foundation`,
         author: `Isaac Asimov`,
-        link: `https://www.goodreads.com/book/show/29579.Foundation`, 
+        link: `https://www.goodreads.com/book/show/29580.Second_Foundation`, 
       },
     ],
     showsList: [
