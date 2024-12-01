@@ -1,0 +1,10 @@
+---
+layout: '@/templates/BasePost.astro'
+title: Advent of Code - Day 1
+description: Solve Advent of Code Day 1 with Kevin
+pubDate: 2020-01-01T00:00:00Z
+imgSrc: '/assets/images/image-post6.jpeg'
+imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
+---
+
+Full typography example at [this page](../sixth-post/).
