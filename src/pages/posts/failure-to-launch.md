@@ -1,6 +1,6 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Breaking Free of Failure to Launch
+title: Breaking Free from Failure to Launch
 description: Confessions of a habitual resolution procrastinator
 pubDate: 2024-11-29T00:00:00Z
 imgSrc: '/assets/images/procrastination.jpg'
