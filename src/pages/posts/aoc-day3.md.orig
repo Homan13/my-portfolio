@@ -1,0 +1,11 @@
+---
+layout: '@/templates/BasePost.astro'
+title: Advent of Code - Day 3
+description: Solve Advent of Code Day 3 with Kevin
+pubDate: 2024-12-04T05:00:00Z
+imgSrc: '/assets/images/code-challenge.jpg'
+imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
+---
+
+There's a myth that it takes three weeks to establish a new habit. If that were an accurate figure, I'd be 14% of the way to establishing a new habit,
+alas, the myth is just that, I'm I'm far further away than I am closer to establishing a new habit. 
