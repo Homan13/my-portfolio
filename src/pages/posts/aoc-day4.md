@@ -1,7 +1,7 @@
 ---
 layout: '@/templates/BasePost.astro'
 title: Advent of Code - Day 4
-description: Solve Advent of Code Day 3 with Kevin
+description: Solve Advent of Code Day 4 with Kevin
 pubDate: 2024-12-05T05:00:00Z
 imgSrc: '/assets/images/code-challenge.jpg'
 imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
