@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: Advent of Code - Day 11
 description: Solve Advent of Code Day 11 with Kevin
-pubDate: 2024-12-22T05:00:00Z
+pubDate: 2024-12-12T05:00:00Z
 imgSrc: '/assets/images/code-challenge.jpg'
 imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
 ---
