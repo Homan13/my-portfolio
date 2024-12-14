@@ -45,3 +45,177 @@ Day 12 had us solving two related, yet different problems in an attempt to calcu
 Today's challenge highlighted the importance of using the proper algorithm for identifying a potentially complex region of figures and then working to group together like figures (in this case letters) and creating a region. With our regions identified, we could then build functions that properly calculated the area, perimeter (Problem 1) or number of sides (Problem 2) and create our pricing calculation by multiplying those figures and providing a sum total of those calculations.
 
 Tomorrow marks our halfway point in this journey. I'm actually very excited about this, as those of you who have been following me along know, sticking to these types of things in the past for me have proven to be futile. Treating this as a one day at a time thing, using this forum plus my daily posts to LinkedIn have proven to be good motivation once I put it out there on what I planned on doing. Thank you again for all of you following along, and most importantly, thank you for continuing to hold my feet to the fire here.
+
+Problem 26 builds on Problem 25 but introduces a new challenge: the prize coordinates for all claw machines are shifted by 
+1
+0
+13
+10 
+13
+  (10 trillion) on both the X and Y axes due to a unit conversion error. This adjustment makes it harder to win prizes, as the claw must now move much farther to align with the prize. Additionally, the problem states that it may take more than 100 button presses to win a prize, so we need to account for this increased range.
+The goal remains the same: determine the fewest number of tokens required to win all possible prizes after adjusting the prize coordinates.
+Inputs, Outputs, and Constraints
+Inputs:
+A list of claw machines, each with:
+Button A: Movement in X and Y directions and cost of 3 tokens per press.
+Button B: Movement in X and Y directions and cost of 1 token per press.
+Prize location: Adjusted by 
+1
+0
+13
+10 
+13
+  on both X and Y axes.
+Outputs:
+The minimum number of tokens required to win all possible prizes.
+Constraints:
+The claw must align exactly with the prize's X and Y coordinates.
+Button A and B presses must be non-negative integers.
+If a prize cannot be won (no solution exists), it is skipped.
+Challenges Faced
+Input Parsing Errors: Early attempts at parsing the input failed due to unexpected formatting issues (e.g., commas, colons). We resolved this by using string slicing and careful splitting to extract values reliably.
+Large Prize Coordinates: The shift by 
+1
+0
+13
+10 
+13
+  introduced extremely large numbers, making brute-force approaches infeasible.
+Linear Equation Solving: Determining the number of button presses required for alignment involved solving a system of linear equations, which was initially approached inefficiently.
+Unwinnable Prizes: Some machines had configurations where no combination of button presses could align the claw with the prize.
+Solution Logic
+To solve this problem efficiently:
+Parse Input:
+Extract button movements (X, Y) for A and B.
+Extract prize coordinates and add 
+1
+0
+13
+10 
+13
+  to both X and Y values.
+Solve Linear Equations:
+Represent the system of equations as:
+[
+A
+x
+B
+x
+A
+y
+B
+y
+]
+[
+n
+A
+n
+B
+]
+=
+[
+P
+x
+P
+y
+]
+[ 
+A 
+x
+​
+ 
+A 
+y
+​
+ 
+​
+  
+B 
+x
+​
+ 
+B 
+y
+​
+ 
+​
+ ][ 
+n 
+A
+​
+ 
+n 
+B
+​
+ 
+​
+ ]=[ 
+P 
+x
+​
+ 
+P 
+y
+​
+ 
+​
+ ]
+Use numpy's linalg.solve function to solve for 
+n
+A
+n 
+A
+​
+  (button A presses) and 
+n
+B
+n 
+B
+​
+  (button B presses).
+Validate Solutions:
+Ensure 
+n
+A
+n 
+A
+​
+  and 
+n
+B
+n 
+B
+​
+  are non-negative integers.
+If valid, calculate the token cost as 
+n
+A
+×
+3
++
+n
+B
+×
+1
+n 
+A
+​
+ ×3+n 
+B
+​
+ ×1.
+Sum Token Costs:
+Add up the token costs for all winnable prizes.
+
+Explanation of Key Updates
+Prize Adjustment: Added 
+1
+0
+13
+10 
+13
+  to both X and Y coordinates during input parsing.
+Validation of Solutions: Ensured solutions from np.linalg.solve were non-negative integers before calculating token costs.
+Handling Unwinnable Prizes: Skipped machines where no valid solution existed.
+Final Output
+This code calculates the fewest tokens required to win all possible prizes after adjusting for the unit conversion error. It efficiently handles large numbers and ensures only valid solutions are considered.
