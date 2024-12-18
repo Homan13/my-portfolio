@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: Advent of Code - Day 16
 description: Solve Advent of Code Day 16 with Kevin
-pubDate: 2024-14-17T05:00:00Z
+pubDate: 2024-12-17T05:00:00Z
 imgSrc: '/assets/images/code-challenge.jpg'
 imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
 ---
