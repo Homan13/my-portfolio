@@ -1,8 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: Breaking Free of Failure to Launch
-description: Confessions of a habitual resolution procrastinator
-pubDate: 2024-11-29T00:00:00Z
+title: Advent of Code - Day 20
+description: Solve Advent of Code Day 20 with Kevin
+pubDate: 2024-12-21T05:00:00Z
 imgSrc: '/assets/images/code-challenge.jpg'
 imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
 ---
