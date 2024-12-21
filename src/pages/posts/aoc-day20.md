@@ -3,8 +3,8 @@ layout: '@/templates/BasePost.astro'
 title: Breaking Free of Failure to Launch
 description: Confessions of a habitual resolution procrastinator
 pubDate: 2024-11-29T00:00:00Z
-imgSrc: '/assets/images/procrastination.jpg'
-imgAlt: 'Photo by Radoslav Bali on Unsplash'
+imgSrc: '/assets/images/code-challenge.jpg'
+imgAlt: 'Photo by Lewis Kangethe Ngugi on Unsplash'
 ---
 
 Once again, I've got no witty lead ins to today's post.
