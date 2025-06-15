@@ -40,12 +40,6 @@ Input and our constraints do not change from Problem 1 to 2, our output does, we
 
 Starting with my Problem 1 solution, I made some slight changes trying to efficiently solve this problem. I implemented modular arithmetic which helped optimize the search portion of our function, and then implemented a backward search algorithm. Starting from what we expected the program to output, that then worked backwards from that expected outcome. I was pleased to hit submit on my first attempt thinking I was going to get a "you're wrong" back from Advent of Code. I was pleasantly surprised to get the response telling me I had earned my second gold star for the day.
 
-This code attempts to find the lowest positive value for Register A that makes the program output a copy of itself. However, as a junior developer, I have some concerns:
-Efficiency: This brute-force approach might take a very long time for large values of Register A.
-Accuracy: I'm not sure if I've implemented the program simulation correctly or if there are edge cases I'm missing.
-Termination: There's a risk that this loop might never terminate if no valid value for Register A exists.
-It would be helpful to have a senior developer review this approach and suggest optimizations or alternative methods to solve this problem more efficiently.
-
 Day 17 had us simulating the operation of a computer, albeit a rather simple 3-bit implementation. In Problem 1 we needed to correctly interpret, then simulate the eight instruction sets ensuring our operand combinations worked properly. In my solution, I broke out each instruction as an individual function, and used a dictionary to efficiently manage my register values. Problem 2 was similar, yet built on Problem 1 using much of what we built in Problem 1 and modifying it to produce a program output that was a copy of itself. I used modular arithmetic and a backwards search algorithm here in an effort to efficiently solve this problem. More and more of the problems as we get into the later days of this challenge seem to be forcing us to really think about how we complete them, focusing on efficiency over brute force problem solving. Some days I just want to solve these challenges and move on, but the value here is in actually learning something. So, when I slow down and appreciate the problem I'm setting myself up for more success down the road.
 
 Thanks again for following along!
