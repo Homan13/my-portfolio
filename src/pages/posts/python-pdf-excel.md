@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: Automating SCCA Participant Report Submissions
 description: High Performance Driving and Python Development team up in one article
-pubDate: 2025-11-29T00:00:00Z
+pubDate: 2025-06-15T00:00:00Z
 imgSrc: '/assets/images/boitumelo-aT_qyAwqgEw-unsplash.jpg'
 imgAlt: 'Photo by Boitumelo on Unsplash'
 ---
